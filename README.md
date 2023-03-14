@@ -1,0 +1,1 @@
+# dizinin-en-kucuk-elemanini-bulan-kod
